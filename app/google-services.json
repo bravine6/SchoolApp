@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951316479870",
+    "project_id": "catone-b123c",
+    "storage_bucket": "catone-b123c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951316479870:android:a1989b0314b04d865efd2f",
+        "android_client_info": {
+          "package_name": "com.example.catone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951316479870-249s2fi6a5j10cpdp7ttd3kd3adnuvk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybhYCGYGdfs-Jbu7yVGy7bRbQSJGM-oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951316479870-249s2fi6a5j10cpdp7ttd3kd3adnuvk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
